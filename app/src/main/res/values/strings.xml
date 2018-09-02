@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo01</string>
+    <string name="helloMessage">Hello Message from Button Knife</string>
+</resources>
